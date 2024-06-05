@@ -7,7 +7,7 @@
 
 - 📝 Sometimes I write articles on [https://medium.com/@chauhanbulbul8](https://medium.com/@chauhanbulbul8)
 
-- 💬 Ask me about **Javascript, MEAN, Python, Django, PHP, MySQL.**
+- 💬 Ask me about **Javascript, MEAN, Python, Django, PHP, MySQL, Cloud.**
 
 - 📫 How to reach me **chauhanbulbul8@gmail.com**
 
