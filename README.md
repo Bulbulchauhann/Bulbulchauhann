@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I am Bulbul</h1>
 <h3 align="center">A passionate Java Web developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bulbulchauhann" alt="bulbulchauhann" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yourbrdrr" target="blank"><img src="https://img.shields.io/twitter/follow/yourbrdrr?logo=twitter&style=for-the-badge" alt="yourbrdrr" /></a> </p>
 
 - 🌱 I’m currently learning **Java, Spring, Springboot, Servelet.**
