@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Bulbul</h1>
+<h1 align="center">Hi, I am Bulbul 🐤</h1>
 <h3 align="center">A passionate Java Web developer from India.</h3>
 
 <p align="left"> <a href="https://twitter.com/yourbrdrr" target="blank"><img src="https://img.shields.io/twitter/follow/yourbrdrr?logo=twitter&style=for-the-badge" alt="yourbrdrr" /></a> </p>
