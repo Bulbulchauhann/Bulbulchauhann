@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Springboot, Servelet.**
 
-- 📝 I regularly write articles on [https://medium.com/@chauhanbulbul8](https://medium.com/@chauhanbulbul8)
+- 📝 Sometimes I write articles on [https://medium.com/@chauhanbulbul8](https://medium.com/@chauhanbulbul8)
 
 - 💬 Ask me about **Javascript, MEAN, Python, Django, PHP, MySQL.**
 
