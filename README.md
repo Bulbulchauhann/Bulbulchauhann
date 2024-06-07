@@ -1,5 +1,5 @@
 <div align = "center">
-<img src = "https://github.com/bulbulchauhann/bulbulchauhann/blob/main/www.png" alt ="Banner Image" width ="800" height="200">
+<img src = "https://github.com/bulbulchauhann/bulbulchauhann/blob/main/www.png" alt ="Banner Image" width ="900" height="400">
 </div>
 <h1 align="center">Hi, I am Bulbul 🐤</h1>
 <h3 align="center">A passionate Java Web developer from India.</h3>
