@@ -1,3 +1,6 @@
+<div align = "center">
+<img src = "https://github.com/bulbulchauhann/bulbulchauhann/blob/main/wall.jpeg" alt ="Banner Image" width ="1000" height="300">
+</div>
 <h1 align="center">Hi, I am Bulbul 🐤</h1>
 <h3 align="center">A passionate Java Web developer from India.</h3>
 
