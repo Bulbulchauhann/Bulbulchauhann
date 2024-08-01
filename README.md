@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **chauhanbulbul8@gmail.com**
 
-- ⚡ Fun fact **I might a little bit sarcastic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
